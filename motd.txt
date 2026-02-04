@@ -1,0 +1,4 @@
+- - - - - - - - - - - - - - - - - - - -
+Welkom Luna!
+Dit bestandje staat op: /etc/motd
+- - - - - - - - - - - - - - - - - - - -
