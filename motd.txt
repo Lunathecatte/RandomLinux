@@ -1,4 +1,4 @@
 - - - - - - - - - - - - - - - - - - - -
-Welkom Luna!
+Welkom in Debian Luna!
 Dit bestandje staat op: /etc/motd
 - - - - - - - - - - - - - - - - - - - -
